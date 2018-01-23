@@ -13,3 +13,4 @@ ReactOnRails.register({
   CategoriesList,
   SubcategoriesList
 });
+

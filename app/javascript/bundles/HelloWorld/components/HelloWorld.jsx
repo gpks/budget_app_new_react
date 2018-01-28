@@ -25,12 +25,12 @@ export default class HelloWorld extends React.Component {
     return (
       <div>
         <h3>
-          Hello, {this.state.name}!
+          Hello, beautiful and nice {this.state.name}!
         </h3>
         <hr />
         <form >
           <label htmlFor="name">
-            Say hello to:
+            Say nicely hello to:
           </label>
           <input
             id="name"
